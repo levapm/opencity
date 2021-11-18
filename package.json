@@ -1,0 +1,16 @@
+{
+  "name": "elastic-node-test",
+  "version": "1.0.0",
+  "description": "Realtime search engine",
+  "main": "query.js",
+  "scripts": {
+    "start": "node query.js"
+  },
+  "keywords": [],
+  "author": "Pavel Manzanares",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^16.7.2",
+    "prompts": "^2.4.2"
+  }
+}
